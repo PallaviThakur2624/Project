@@ -1,7 +1,3 @@
-**`https://github.com/PallaviThakur2624/Project.git`**
-
----
-
 # Pallavi's Project - Super Simple Setup Guide
 
 **GitHub Repo:** [https://github.com/PallaviThakur2624/Project.git](https://github.com/PallaviThakur2624/Project.git)
