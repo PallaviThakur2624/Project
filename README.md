@@ -1,6 +1,6 @@
 # Pallavi's Project - Super Simple Setup Guide
 
-**GitHub Repo:** [https://github.com/iemtejasvi/Pallavi-s-Project.git](https://github.com/iemtejasvi/Pallavi-s-Project.git)
+**GitHub Repo:** [https://github.com/PallaviThakur2624/Pallavi-s-Project.git](https://github.com/PallaviThakur2624/Pallavi-s-Project.git)
 
 Welcome! This guide will help you run this project on your computer, even if you have never coded before. Just follow each step, one at a time. 😊
 
